@@ -1,3 +1,4 @@
+setuptools
 SoundFile
 torchaudio
 munch
@@ -15,3 +16,4 @@ tqdm
 typing
 typing-extensions
 git+https://github.com/resemble-ai/monotonic_align.git
+phonemizer
